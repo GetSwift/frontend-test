@@ -19,4 +19,4 @@ Your task is to take this mockup and implement some responsive HTML/CSS. You may
 
 # Submission
 
-Create a new repository (don't fork this one) and send us the link at joash at getswift dot co. If you'd prefer you can also email us a zip file.
+Create a new repository (don't fork this one) and send us the link at joash at getswift dot co. If you'd prefer you can also email us a zip file. When you send the repository link/ zip file please prefix the subject with `FETEST:`
